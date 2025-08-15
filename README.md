@@ -15,8 +15,15 @@
 ### This is an ongoing project. 
 A basic project created to understand the Spring workflow and to practice project setup and execution.
 
+
+## Reference
+This project was developed with the help of the following tutorial:  
+
+스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8
+
 ## Tech Stack
-- Java 17
+- Java 24
 - Spring Boot 3.2  
 - Gradle 8.5  
 
@@ -35,7 +42,7 @@ gradlew.bat build
 ```
 
 ## Test / Examples
-- not built yet
+- not built
 
 ## Project Structure
 
